@@ -7,6 +7,7 @@
 今後新たに構築する場合は必ず公式HPの手順に則ること。またAlphafold3 installationの公式HPのまま実行してもエラーが出るときは、Alphafold3公式HPで参照されている引用元を見るべし。
 
 この備忘録は下記公式HPの方法を、ラボ内のパソコンで動作するように改変したのものである。
+動作やトラブル等に関する責任は一切負わない。参考程度にどうぞ。
 
 公式HP [Alphafold3のインストール方法](https://github.com/google-deepmind/alphafold3/blob/main/docs/installation.md)
 
